@@ -1,3 +1,4 @@
 *.swp
 
 /php/vendor/
+/elixir/_build/
