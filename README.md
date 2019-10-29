@@ -18,3 +18,4 @@
 
  * Ruby
  * PHP
+ * Elixir
